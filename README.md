@@ -13,4 +13,5 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/bossalistener)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/K9tDMkrQCS)
 
-[![0xUzu GitHub stats](https://github-readme-stats.vercel.app/api?username=0xUzu)](https://github.com/0xUzu)
+[![0xUzu GitHub stats](https://github-readme-stats.vercel.app/api?username=0xUzu&show_icons=true)](https://github.com/0xUzu)
+[![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=0xUzu&layout=compact)](https://github.com/0xUzu)
