@@ -15,5 +15,5 @@
 
 <pre></pre>
 
-[![0xUzu GitHub stats](https://github-readme-stats.vercel.app/api?username=0xUzu&show_icons=true)](https://github.com/0xUzu)
-[![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=0xUzu&layout=compact)](https://github.com/0xUzu)
+[![0xUzu GitHub stats](https://github-readme-stats.vercel.app/api?username=0xUzu&theme=highcontrast&show_icons=true)](https://github.com/0xUzu)
+[![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=0xUzu&theme=highcontrast&layout=compact)](https://github.com/0xUzu)
