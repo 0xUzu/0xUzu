@@ -1,9 +1,10 @@
 <p align="center"><img src="https://c.tenor.com/ZwaY6zh-QTUAAAAC/hxh-gon.gif"></p>
 
 <h1 align="center"> You can call me Uzu, it's a pleasure. </h1> 
-<h3 align="center"> I'm just a *curious b0y! I studied several languages but now I'm only in C! </h3>
+<h3 align="center"> I'm just a *curious b0y! I studied several languages but now I'm only in C/C++! </h3>
 
 [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://pt.wikipedia.org/wiki/C_(linguagem_de_programa%C3%A7%C3%A3o))
+[![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://pt.wikipedia.org/wiki/C++)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/corporate-responsibility)
